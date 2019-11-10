@@ -22,3 +22,10 @@ hr {
     width: 65%;
     margin: 0 auto;
 }
+
+p {
+    font-family: 'Lato', sans-serif;
+    width: 50%;
+    text-align: justify;
+    margin: 30px auto;
+}
